@@ -1,0 +1,16 @@
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\Core.dll
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\WebDriver.dll
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\WebDriver.Support.dll
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\Core.pdb
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\WebDriver.xml
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\bin\Debug\WebDriver.Support.xml
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\obj\Debug\Pantallas.csprojAssemblyReference.cache
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\obj\Debug\Pantallas.Principal.resources
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.cache
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\obj\Debug\Pantallas.csproj.CopyComplete
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Pantallas\obj\Debug\Pantallas.pdb

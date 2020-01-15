@@ -1,0 +1,10 @@
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\bin\Debug\Core.dll
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\bin\Debug\Core.pdb
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\bin\Debug\WebDriver.dll
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\bin\Debug\WebDriver.Support.dll
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\bin\Debug\WebDriver.xml
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\bin\Debug\WebDriver.Support.xml
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\obj\Debug\Core.dll
+C:\Users\oscar.torres.f\Documents\Repositorio GH\julian\proyectos\CDBK-24\Codigo\Retencion\Core\obj\Debug\Core.pdb
